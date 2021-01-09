@@ -1,2 +1,4 @@
 # Certificates
-A collection of certificates obtained from various online courses
+
+A collection of certificates
+![2020 certificates](media/2020_certificates.svg)
